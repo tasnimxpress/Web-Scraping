@@ -1,5 +1,11 @@
 # important html tag
 
+# to find an element its recomended to search in this order:
+# id
+# class name
+# tag name, css selector
+# Xpath
+
 tag_dict = [
     {'head':
         'The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag'},
